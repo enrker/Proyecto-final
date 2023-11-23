@@ -1,0 +1,9 @@
+.tienda{
+    background: #212121;
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    border-radius: 16px;
+    width: 350px;
+    height: 450px;
+}

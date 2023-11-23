@@ -1,0 +1,16 @@
+.main__img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 700px;
+    background: #171717;
+    border-radius: 50%;
+    border: 5px solid #27AE60;
+}
+
+.main__img img {
+    width: 700px;
+    height: 900px;
+    margin-bottom: 100px;
+}

@@ -1,0 +1,16 @@
+.contacto__btn {
+    background-color: #27AE60;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    text-decoration: none; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    margin-top: 20px;
+    cursor: pointer; 
+    transition: .3s;
+    width: 143px;
+    height: 42px;
+}
+.contacto__btn:hover {
+    box-shadow: 0 0 10px #27AE60;
+}

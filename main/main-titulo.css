@@ -1,0 +1,12 @@
+.main__titulo {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom:10px solid #27AE60;;
+}
+
+
+.main__titulo h1 {
+    color: #FFFFFF;
+    font-size: 60px;
+}
